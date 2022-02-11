@@ -1,0 +1,18 @@
+n=int(input())
+if n%2 != 0:
+    print("Weird")
+elif n%2 == 0:
+        print("Not Weird")
+elif n%2 == 0:
+        print("Weird")
+elif n>20:
+    print("Not Weird")
+    
+    
+    OUTPUT:
+    input(stdin) 
+    3
+    our output (stdout) 
+    weird
+    expected output
+    weird
